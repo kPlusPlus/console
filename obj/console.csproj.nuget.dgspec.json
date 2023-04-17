@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "p:\\Project\\console\\console.csproj": {}
+    "P:\\Project\\console\\console.csproj": {}
   },
   "projects": {
-    "p:\\Project\\console\\console.csproj": {
+    "P:\\Project\\console\\console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "p:\\Project\\console\\console.csproj",
+        "projectUniqueName": "P:\\Project\\console\\console.csproj",
         "projectName": "console",
-        "projectPath": "p:\\Project\\console\\console.csproj",
+        "projectPath": "P:\\Project\\console\\console.csproj",
         "packagesPath": "C:\\Users\\kresi\\.nuget\\packages\\",
-        "outputPath": "p:\\Project\\console\\obj\\",
+        "outputPath": "P:\\Project\\console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kresi\\AppData\\Roaming\\NuGet\\NuGet.Config",
